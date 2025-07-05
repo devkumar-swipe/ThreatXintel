@@ -58,6 +58,10 @@ python3 xpose.py
 
 
 
+![image](https://github.com/user-attachments/assets/d4d401cd-d6a2-42d6-987d-2574fb04610d)
+
+
+
 ## 👨‍💻 About me
 feel free to reach me at linkdin or by mail
 devkumar@cyberswipe.in
