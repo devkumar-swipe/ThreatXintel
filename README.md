@@ -57,3 +57,9 @@ python3 xpose.py
 ```
 
 
+
+## 👨‍💻 About me
+feel free to reach me at linkdin or by mail
+devkumar@cyberswipe.in
+
+
